@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>logo.png</file>
+  </qresource>
+  <qresource prefix="scan">
+    <file>qr-code-scan (1).png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+ Billno-534	2023-08-21  =====================  Items(q) 	 	Amount  ===================== 
+ Lassi (3)         150    tea (5)           50  shakes(2)         100   dal makhni(1)     120  paratha(1)        40   veg biryani(1)    120  service charge    10
+ tax paid        46.4
+ ===================== 
+ total          636.4
+ =====================
