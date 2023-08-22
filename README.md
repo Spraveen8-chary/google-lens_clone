@@ -30,3 +30,7 @@ VisionQuest is an image classification application built using PyQt5 and TensorF
 
 # UI 
 ![image](https://github.com/Spraveen8-chary/google-lens_clone/assets/108536707/014ed98a-1b11-4506-a89d-6efe5355e6f6)
+
+
+# OUTPUT 
+![image](https://github.com/Spraveen8-chary/google-lens_clone/assets/108536707/83fe09ac-12c0-49b1-a98f-883024769e90)
